@@ -4,7 +4,7 @@
     $operacion = $_POST["operacion"];
 
 
-    $resultado = " ";
+    $resultado = "";
 
 
     if ($operacion == "suma") {
